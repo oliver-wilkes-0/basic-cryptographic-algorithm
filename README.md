@@ -1,4 +1,3 @@
-#read me
 required libraries:
     pycryptodome
     Cryptography
